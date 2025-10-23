@@ -34,8 +34,8 @@ Developed entirely by **Amanda Methoxha**, this project showcases full-stack dev
 ## 🧠 Features
 
 ***✅** Manage **staff profiles** (create, update, delete)
-*✅ Manage **service user records** with RAG ratings
-*✅ Record **staff availability** by weekday and shift times
+***✅**  Manage **service user records** with RAG ratings
+***✅**  Record **staff availability** by weekday and shift times
 *✅ Create and view **assignments** between staff and service users
 *✅ Log **service user care needs** (e.g. medical, wellbeing, domestic)
 *✅ REST API accessible via FastAPI Swagger UI
